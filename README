@@ -1,0 +1,11 @@
+A customization of libffm
+
+1. Runtime: FM with linear terms
+2. Optimize pairwise ranking loss
+3. data format change
+
+label   searchid   [fid: fv]
+
+Please refer to:
+https://github.com/guestwalk/libffm
+for the original implementation
